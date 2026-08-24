@@ -1,2 +1,2 @@
 # Pilha
-Realizado nas aulas de Estrutura de Dados, no segundo semestre do segundo ano do curso (2026).
+Realizado nas aulas de Estrutura de Dados, no terceiro semestre do curso de Desenvolvimento de Sistemas.
